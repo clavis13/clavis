@@ -1,0 +1,44 @@
+package ifelse문;
+
+import java.util.Scanner;
+
+import javax.print.attribute.SetOfIntegerSyntax;
+
+public class Ex03마트계산대프로그램 {
+
+	public static void main(String[] args) {
+		
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("상품의 개수를 입력하세요 : ");
+		
+//		int goods = sc.nextInt();
+//		
+//		double money = goods*10000*0.9;
+//		int money2 = goods*10000;
+//	
+//		
+//		if(10<goods) {
+//			System.out.println("가격은" + (int)money+"원입니다.");
+//		}else {
+//			System.out.println("가격은" + money2+"원입니다.");
+//		}
+//		
+//		
+		int goods = sc.nextInt();
+		
+		int money = 0;
+		//지역변수 추가
+		if(goods>=11) {
+			money = (int)(10000 * goods * 0.9);
+		}else {
+			money = 10000 * goods;
+		}
+		System.out.println("가격은" +money+"원 입니다");
+		
+		
+
+	}
+
+}
