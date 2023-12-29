@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T08:25:45.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="U_FIL-_Hzq26Ds_93RE6" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-29T08:46:56.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Te2NVj7XbRGDDtargZat" version="22.1.15" type="github">
   <diagram name="페이지-1" id="13OmgTKoOKMh2cI8QElQ">
     <mxGraphModel dx="1195" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,6 +134,9 @@
         </mxCell>
         <mxCell id="0s97cXIPQVOTWRCdV7om-80" value="논리적모델링&lt;br&gt;RM(관계모델)&lt;br&gt;PK,FK결정" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="-830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0s97cXIPQVOTWRCdV7om-81" value="물리적인 모델링&lt;br&gt;(DB 작성)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
