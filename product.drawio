@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T07:39:18.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8VN43wTg8emZmSsDivBm" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T07:41:40.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9ep1edBs46r3pT_v8Njd" version="22.1.15" type="github">
   <diagram name="페이지-1" id="DEWDctHiFHOx_gTHMe10">
     <mxGraphModel dx="1195" dy="650" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -215,6 +215,9 @@
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="-10" y="20" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I4Wp9UXoAShZS9qzrufF-95" value="온라인 전자상거래 ERD_박준범" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
